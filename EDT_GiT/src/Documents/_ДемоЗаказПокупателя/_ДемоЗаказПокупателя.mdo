@@ -565,6 +565,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="703baee7-3e6d-4c7b-86a5-2a5b0b4daa61">
+    <name>Предзаказ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Предзаказ</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="4dd0d3d6-6edd-4571-a181-6320b2cf459a">
     <name>ФормаДокумента</name>
     <synonym>
